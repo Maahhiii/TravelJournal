@@ -4,7 +4,7 @@ A simple, responsive React application that showcases travel destinations with i
 
 ---
 
-## ✨ Features
+## Features
 
 - Location cards with images, titles, and descriptions
 - Google Maps link for each destination
@@ -13,7 +13,7 @@ A simple, responsive React application that showcases travel destinations with i
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![{E4FD75CE-661B-40D0-8F47-1901CD7BFA24}](https://github.com/user-attachments/assets/718f81c7-6059-4971-9268-e2c5eb6ebc27)
 
